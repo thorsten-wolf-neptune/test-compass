@@ -1,0 +1,57 @@
+{
+	"id": "24c4c297-92ad-ef11-88cf-0022489c9842",
+	"createdAt": "2024-11-28T14:11:00.483Z",
+	"createdBy": "thorsten.wolf@neptune-software.com",
+	"auth": [],
+	"endpoints": [],
+	"paths": [
+		{
+			"id": "e6d0762e-6cb6-4b9c-dcb6-355b1081eb7d",
+			"method": "GET",
+			"path": "/test",
+			"description": "",
+			"parameters": [],
+			"headers": [],
+			"responses": [],
+			"content": [],
+			"auth": [],
+			"endpoints": [],
+			"serverScript": "e1407855-92ad-ef11-88cf-0022489c9842"
+		}
+	],
+	"definitions": [
+		{
+			"id": "f2290c08-8b3e-4cb8-e9c0-94567031a659",
+			"name": "get",
+			"description": "",
+			"isInclude": false,
+			"properties": [],
+			"type": "object"
+		}
+	],
+	"documentation": [],
+	"name": "compass_test",
+	"endpoint": "/api/serverscript/compass_test",
+	"ver": "24.11.28.1411",
+	"version": null,
+	"description": null,
+	"mediaType": null,
+	"securitySchemes": null,
+	"swaggerURI": null,
+	"swaggerSystem": null,
+	"apiType": "script",
+	"about": null,
+	"enableProxy": false,
+	"forwardProxy": null,
+	"restrictAccess": false,
+	"enableTrace": false,
+	"enableIDE": true,
+	"internalAPI": false,
+	"isPublic": false,
+	"tlsAllowUntrusted": false,
+	"useOwnProcess": false,
+	"package": "08f54a85-92ad-ef11-88cf-0022489c9842",
+	"apiGroup": null,
+	"apiFormat": 1,
+	"roles": []
+}

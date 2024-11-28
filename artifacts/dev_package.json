@@ -1,0 +1,60 @@
+{
+	"id": "08f54a85-92ad-ef11-88cf-0022489c9842",
+	"createdAt": "2024-11-28T14:10:29.493Z",
+	"createdBy": "thorsten.wolf@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/thorsten-wolf-neptune/test-compass"
+	},
+	"name": "compass_test",
+	"description": "asd",
+	"ver": "24.11.28.1413",
+	"enableCICD": true,
+	"apps": [],
+	"api": [
+		{
+			"id": "24c4c297-92ad-ef11-88cf-0022489c9842",
+			"name": "compass_test",
+			"description": null,
+			"apiGroup": null
+		}
+	],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "e1407855-92ad-ef11-88cf-0022489c9842",
+			"name": "testapicompass",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "df407855-92ad-ef11-88cf-0022489c9842",
+			"name": "testcompass",
+			"description": "test"
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
